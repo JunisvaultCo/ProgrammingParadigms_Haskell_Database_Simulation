@@ -1,5 +1,5 @@
 Plaiasu Iulia-Silvia
 Most of Tasks.hs is written by me as part of the Programming Paradigms
 course homework. The homework reads CSVs and simulates several possible
-query in the tables. Task 3.6 uses edit distance to correct another table
+queries in the tables. Task 3.6 uses edit distance to correct another table
 based on one table.
